@@ -4,7 +4,8 @@
 
 ##Install
 
-Add this repository to Sublime Text via `Package Control: Add Repository`.
+1. Add this repository to Sublime Text via `Package Control: Add Repository`.
+2. Install package via `Package Control: Add Repository` > `sublime-wpcs-whitelist-flags`.
 
 ##Use
 
