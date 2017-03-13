@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// WPCS: CSRF ok.
+]]></content>
+	<tabTrigger>wpcs</tabTrigger>
+	<scope>source.php</scope>
+	<description>WPCS: CSRF ok</description>
+</snippet>

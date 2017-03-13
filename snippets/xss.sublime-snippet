@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// WPCS: XSS ok.
+]]></content>
+	<tabTrigger>wpcs</tabTrigger>
+	<scope>source.php</scope>
+	<description>WPCS: XSS ok</description>
+</snippet>

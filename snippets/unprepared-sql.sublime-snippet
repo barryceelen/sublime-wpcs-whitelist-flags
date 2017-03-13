@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// WPCS: unprepared SQL ok.
+]]></content>
+	<tabTrigger>wpcs</tabTrigger>
+	<scope>source.php</scope>
+	<description>WPCS: unprepared SQL ok</description>
+</snippet>
