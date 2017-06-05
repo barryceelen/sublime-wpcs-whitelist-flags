@@ -1,12 +1,15 @@
-# WPCS whitelist flags for Sublime Text
+WPCS whitelist flags for Sublime Text
+=====================================
 
-[WordPress Coding Standards](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards) lets you whitelist given errors for a line or block of code. This repository provides a list of Sublime Text autocomplete snippets containing all WPCS [whitelist flags](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/wiki/Whitelisting-code-which-flags-errors).
+A [Sublime Text  2/3](http://www.sublimetext.com/) plug-in to add [WordPress Coding Standards whitelist flags](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/wiki/Whitelisting-code-which-flags-errors) to your code.
 
-##Install
+##Install via Package Control
 
-1. Add this repository to Sublime Text via `Package Control: Add Repository`.
-2. Install package via `Package Control: Add Repository` > `sublime-wpcs-whitelist-flags`.
+1. [Install Package Control](https://packagecontrol.io/installation) if you haven't yet.
+2. Open the command palette (<kbd>Ctrl+Shift+P</kbd> for Windows/Linux, <kbd>Cmd+Shift+P</kbd> for Mac).
+3. Search for _Package Control: Install Package_ and hit <kbd>Enter</kbd>.
+4. Type `WPCS whitelist flags` and press <kbd>Enter</kbd> to install it.
 
 ##Use
 
-Typing `wpcs` shows a list of flags.
+Type `wpcs` to select a whitelist flag via autocomplete.
