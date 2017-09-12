@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-// WPCS: tax_query ok.
-]]></content>
-	<tabTrigger>wpcs</tabTrigger>
-	<scope>source.php</scope>
-	<description>WPCS: tax_query ok (Deprecated)</description>
-</snippet>
