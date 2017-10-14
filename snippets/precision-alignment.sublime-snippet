@@ -2,7 +2,7 @@
 	<content><![CDATA[
 // WPCS: precision alignment ok.
 ]]></content>
-	<tabTrigger>wpcs</tabTrigger>
+	<tabTrigger>wpcs precision alignment</tabTrigger>
 	<scope>source.php</scope>
 	<description>WPCS: precision alignment ok</description>
 </snippet>

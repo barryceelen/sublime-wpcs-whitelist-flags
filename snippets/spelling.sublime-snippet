@@ -2,7 +2,7 @@
 	<content><![CDATA[
 // WPCS: spelling ok.
 ]]></content>
-	<tabTrigger>wpcs</tabTrigger>
+	<tabTrigger>wpcs spelling</tabTrigger>
 	<scope>source.php</scope>
 	<description>WPCS: spelling ok</description>
 </snippet>

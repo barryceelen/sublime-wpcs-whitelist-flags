@@ -2,7 +2,7 @@
 	<content><![CDATA[
 // WPCS: db call ok.
 ]]></content>
-	<tabTrigger>wpcs</tabTrigger>
-	<scope>source.php</scope>
+	<tabTrigger>wpcs db call</tabTrigger>
+	<scope>source.php, comment</scope>
 	<description>WPCS: db call ok</description>
 </snippet>

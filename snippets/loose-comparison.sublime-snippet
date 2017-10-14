@@ -2,7 +2,7 @@
 	<content><![CDATA[
 // WPCS: loose comparison ok.
 ]]></content>
-	<tabTrigger>wpcs</tabTrigger>
+	<tabTrigger>wpcs loose comparison</tabTrigger>
 	<scope>source.php</scope>
 	<description>WPCS: loose comparison ok</description>
 </snippet>

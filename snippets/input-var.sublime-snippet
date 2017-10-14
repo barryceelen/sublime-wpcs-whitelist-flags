@@ -2,7 +2,7 @@
 	<content><![CDATA[
 // WPCS: input var okay.
 ]]></content>
-	<tabTrigger>wpcs</tabTrigger>
+	<tabTrigger>wpcs input var</tabTrigger>
 	<scope>source.php</scope>
 	<description>WPCS: input var okay</description>
 </snippet>
