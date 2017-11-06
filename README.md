@@ -15,11 +15,14 @@ Type `wpcs` to select a whitelist flag via autocomplete.
 
 ## Changelog
 
+### 1.0.6
+- Add PreparedSQLPlaceholders replacement count flag
+
 ### 1.0.5
 - Make precision alignment flag available to .js and .css files
 
 ### 1.0.4
-- Tab triggers now contain more words.   
+- Tab triggers now contain more words.
 This makes it easier to select a specific flag via the keyboard in addition to using the up or down arrow keys
 
 ### 1.0.3
