@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-// phpcs:ignore WordPress.DB.DirectDatabaseQuery
+// phpcs:ignore WordPress.DB.DirectDatabaseQuery.DirectQuery
 ]]></content>
 	<tabTrigger>phpcs db call</tabTrigger>
 	<scope>source.php, comment</scope>
-	<description>phpcs:ignore WordPress.DB.DirectDatabaseQuery</description>
+	<description>phpcs:ignore WordPress.DB.DirectDatabaseQuery.DirectQuery</description>
 </snippet>
