@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// phpcs:ignore WordPress.NamingConventions.PrefixAllGlobals
+]]></content>
+	<tabTrigger>wpcs prefix</tabTrigger>
+	<scope>source.php</scope>
+	<description>phpcs:ignore WordPress.NamingConventions.PrefixAllGlobals</description>
+</snippet>

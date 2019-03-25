@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// phpcs:ignore WordPress.WP.GlobalVariablesOverride
+]]></content>
+	<tabTrigger>wpcs override</tabTrigger>
+	<scope>source.php</scope>
+	<description>phpcs:ignore WordPress.WP.GlobalVariablesOverride</description>
+</snippet>

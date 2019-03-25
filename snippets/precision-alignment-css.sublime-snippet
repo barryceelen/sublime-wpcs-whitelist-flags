@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-/* WPCS: precision alignment ok. */
-]]></content>
-	<tabTrigger>wpcs precision alignment</tabTrigger>
-	<scope>source.css</scope>
-	<description>WPCS: precision alignment ok</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-// WPCS: prefix ok.
-]]></content>
-	<tabTrigger>wpcs prefix</tabTrigger>
-	<scope>source.php</scope>
-	<description>WPCS: prefix ok</description>
-</snippet>

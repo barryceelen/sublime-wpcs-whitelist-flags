@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-// WPCS: PreparedSQLPlaceholders replacement count ok.
-]]></content>
-	<tabTrigger>wpcs preparedsql</tabTrigger>
-	<scope>source.php</scope>
-	<description>WPCS: PreparedSQLPlaceholders replacement count ok</description>
-</snippet>

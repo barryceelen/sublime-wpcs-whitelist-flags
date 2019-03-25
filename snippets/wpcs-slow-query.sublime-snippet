@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-// WPCS: slow query ok.
+// phpcs:ignore WordPress.DB.SlowDBQuery
 ]]></content>
 	<tabTrigger>wpcs slow query</tabTrigger>
 	<scope>source.php</scope>
-	<description>WPCS: slow query ok</description>
+	<description>WordPress.DB.SlowDBQuery</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/* phpcs:ignore WordPress.WhiteSpace.PrecisionAlignment */
+]]></content>
+	<tabTrigger>wpcs precision alignment</tabTrigger>
+	<scope>source.css</scope>
+	<description>phpcs:ignore WordPress.WhiteSpace.PrecisionAlignment</description>
+</snippet>

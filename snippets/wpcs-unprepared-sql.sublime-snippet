@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-// WPCS: unprepared SQL ok.
+// phpcs:ignore WordPress.DB.PreparedSQL
 ]]></content>
 	<tabTrigger>wpcs unprepared sql</tabTrigger>
 	<scope>source.php</scope>
-	<description>WPCS: unprepared SQL ok</description>
+	<description>phpcs:ignore WordPress.DB.PreparedSQL</description>
 </snippet>
