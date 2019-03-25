@@ -4,7 +4,7 @@ A [Sublime Text  2/3](http://www.sublimetext.com/) plug-in to add [WordPress Cod
 
 ## Use
 
-Type `wpcs` to select a whitelist flag via autocomplete.
+Type `phpcs` or `wpcs` to select a whitelist flag via autocomplete.
 
 ## Install via Package Control
 
@@ -14,6 +14,10 @@ Type `wpcs` to select a whitelist flag via autocomplete.
 4. Type `WPCS whitelist flags` and press <kbd>Enter</kbd> to install it.
 
 ## Changelog
+
+### 1.0.7
+- Use the `// phpcs:ignore` format in stead of the deprecated `// WPCS: ...` flags
+- Introduce `phpcs` tab trigger in addition to `wpcs`
 
 ### 1.0.6
 - Add PreparedSQLPlaceholders replacement count flag
