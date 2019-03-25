@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// phpcs:ignore WordPress.PHP.StrictComparisonsSniff
+]]></content>
+	<tabTrigger>phpcs loose comparison</tabTrigger>
+	<scope>source.php</scope>
+	<description>phpcs:ignore WordPress.PHP.StrictComparisonsSniff</description>
+</snippet>

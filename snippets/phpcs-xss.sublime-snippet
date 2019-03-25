@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
+]]></content>
+	<tabTrigger>phpcs xss</tabTrigger>
+	<scope>source.php</scope>
+	<description>phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped</description>
+</snippet>

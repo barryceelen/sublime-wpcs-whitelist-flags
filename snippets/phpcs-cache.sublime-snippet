@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// WPCS: cache ok.
+]]></content>
+	<tabTrigger>wpcs cache</tabTrigger>
+	<scope>source.php</scope>
+	<description>WPCS: cache ok</description>
+</snippet>
