@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-// phpcs:ignore WordPress.PHP.StrictComparisonsSniff
+// phpcs:ignore WordPress.PHP.StrictInArray.MissingTrueStrict
 ]]></content>
 	<tabTrigger>phpcs loose comparison</tabTrigger>
 	<scope>source.php</scope>
-	<description>phpcs:ignore WordPress.PHP.StrictComparisonsSniff</description>
+	<description>phpcs:ignore WordPress.PHP.StrictInArray.MissingTrueStrict</description>
 </snippet>

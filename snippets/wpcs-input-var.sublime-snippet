@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-// phpcs:ignore WordPress.Security.ValidatedSanitizedInput
+// phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotValidated
 ]]></content>
 	<tabTrigger>wpcs input var</tabTrigger>
 	<scope>source.php</scope>
-	<description>phpcs:ignore WordPress.Security.ValidatedSanitizedInput</description>
+	<description>phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotValidated</description>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 /* phpcs:ignore $1 */
 ]]></content>
-	<tabTrigger>phpcs</tabTrigger>
+	<tabTrigger>phpcs ignore</tabTrigger>
 	<scope>source.css</scope>
 	<description>phpcs:ignore</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-// phpcs:ignore WordPress.WhiteSpace.PrecisionAlignment
+// phpcs:ignore Generic.Formatting.MultipleStatementAlignment.NotSameWarning
 ]]></content>
 	<tabTrigger>phpcs precision alignment</tabTrigger>
 	<scope>source.php, source.js</scope>
-	<description>phpcs:ignore WordPress.WhiteSpace.PrecisionAlignment</description>
+	<description>phpcs:ignore Generic.Formatting.MultipleStatementAlignment.NotSameWarning</description>
 </snippet>

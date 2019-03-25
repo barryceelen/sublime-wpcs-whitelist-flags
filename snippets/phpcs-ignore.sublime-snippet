@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-/* phpcs:ignore $1 */
+// phpcs:ignore $1
 ]]></content>
-	<tabTrigger>phpcs</tabTrigger>
+	<tabTrigger>phpcs ignore</tabTrigger>
 	<scope>source.php, source.js</scope>
 	<description>phpcs:ignore</description>
 </snippet>
