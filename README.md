@@ -1,6 +1,6 @@
 # WPCS whitelist flags for Sublime Text
 
-A [Sublime Text  2/3](http://www.sublimetext.com/) plug-in to add [WordPress Coding Standards whitelist flags](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/wiki/Whitelisting-code-which-flags-errors) to your php code.
+A [Sublime Text  2/3/4](http://www.sublimetext.com/) plug-in to add [WordPress Coding Standards whitelist flags](https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/wiki/Whitelisting-code-which-flags-errors) to your php code.
 
 ## Use
 
@@ -14,6 +14,11 @@ Type `phpcs` or `wpcs` to select a whitelist flag via autocomplete.
 4. Type `WPCS whitelist flags` and press <kbd>Enter</kbd> to install it.
 
 ## Changelog
+
+### 1.0.8
+- Update README.md
+- Shorten snippet description to only show the sniffer rule to ignore
+- Add .gitignore
 
 ### 1.0.7
 - Use the `// phpcs:ignore` format in stead of the deprecated `// WPCS: ...` flags
