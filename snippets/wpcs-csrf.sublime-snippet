@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>wpcs nonce</tabTrigger>
 	<scope>source.php</scope>
-	<description>phpcs:ignore WordPress.CSRF.NonceVerification.Missing</description>
+	<description>WordPress.CSRF.NonceVerification.Missing</description>
 </snippet>

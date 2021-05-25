@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>phpcs precision alignment</tabTrigger>
 	<scope>source.css</scope>
-	<description>phpcs:ignoreGeneric.Formatting.MultipleStatementAlignment.NotSameWarning</description>
+	<description>Generic.Formatting.MultipleStatementAlignment.NotSameWarning</description>
 </snippet>

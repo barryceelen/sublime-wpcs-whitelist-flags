@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>phpcs input var</tabTrigger>
 	<scope>source.php</scope>
-	<description>phpcs:ignore WordPress.Security.ValidatedSanitizedInput.InputNotValidated</description>
+	<description>WordPress.Security.ValidatedSanitizedInput.InputNotValidated</description>
 </snippet>

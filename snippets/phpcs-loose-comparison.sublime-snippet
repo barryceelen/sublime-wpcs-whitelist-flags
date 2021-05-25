@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>phpcs loose comparison</tabTrigger>
 	<scope>source.php</scope>
-	<description>phpcs:ignore WordPress.PHP.StrictInArray.MissingTrueStrict</description>
+	<description>WordPress.PHP.StrictInArray.MissingTrueStrict</description>
 </snippet>

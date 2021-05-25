@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>wpcs db call</tabTrigger>
 	<scope>source.php, comment</scope>
-	<description>phpcs:ignore WordPress.DB.DirectDatabaseQuery.DirectQuery</description>
+	<description>WordPress.DB.DirectDatabaseQuery.DirectQuery</description>
 </snippet>

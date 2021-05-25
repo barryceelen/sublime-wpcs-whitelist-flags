@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>phpcs cache</tabTrigger>
 	<scope>source.php</scope>
-	<description>phpcs:ignore WordPress.DB.DirectDatabaseQuery</description>
+	<description>WordPress.DB.DirectDatabaseQuery</description>
 </snippet>
